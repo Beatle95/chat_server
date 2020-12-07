@@ -1,0 +1,73 @@
+﻿  cyberchampics_chat_server.cpp
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(101,70): warning C4267: аргумент: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(169,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(485,51): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(485,51): warning C4267: инициализация: преобразование из "size_t" в "const unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(486,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(504,37): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(554,66): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(570,13): warning C4101: client: неиспользованная локальная переменная
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(624,43): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(652,44): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(661,44): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(829,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(829,33): warning C4309: инициализация: усечение константного значения
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(844,24): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(965,107): warning C4267: аргумент: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1005,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1021,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1021,33): warning C4309: инициализация: усечение константного значения
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1035,73): warning C4267: аргумент: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1048,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1048,33): warning C4309: инициализация: усечение константного значения
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1069,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1082,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1105,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1105,33): warning C4309: инициализация: усечение константного значения
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1129,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1129,33): warning C4309: инициализация: усечение константного значения
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1164,48): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1191,34): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1191,34): warning C4309: инициализация: усечение константного значения
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1200,47): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1217,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1217,33): warning C4309: инициализация: усечение константного значения
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1279,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\cyberchampics_chat_server.cpp(1279,33): warning C4309: инициализация: усечение константного значения
+  ftp_client.cpp
+  sql_client.cpp
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(100,33): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(238,28): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(265,16): warning C4244: инициализация: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(304,16): warning C4244: инициализация: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(310,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(336,32): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(359,32): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(386,16): warning C4244: инициализация: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(383,9): warning C4101: c_id: неиспользованная локальная переменная
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(415,32): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(416,37): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(438,32): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(439,37): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(440,38): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(443,37): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(465,34): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(466,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(468,40): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(472,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(504,34): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(505,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(507,40): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(511,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(543,34): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(544,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(546,40): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(550,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(602,34): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(603,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(605,40): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+D:\tishenko\Projects\cyberchampics_chat_server\cyberchampics_chat_server\sql_client.cpp(609,39): warning C4244: =: преобразование "sqlite3_int64" в "long", возможна потеря данных
+  tcp_client.cpp
+  Создание кода...
+  sqlite3.c
+  cyberchampics_chat_server.vcxproj -> D:\tishenko\Projects\cyberchampics_chat_server\x64\Debug\cyberchampics_chat_server.exe
